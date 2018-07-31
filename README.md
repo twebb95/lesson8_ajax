@@ -4,19 +4,19 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(August 3rd, 2018)
 
 ### Student Name:  
-(First and Last Name)
+(Tyler Webb)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(Movie database search application that retrieves movie info)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://twebb95.github.io/lesson8_ajax/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. Building an application using an Application Programming Interface (API)
+2. Parse JSON data from an HTTP response message
+3. Use Ajax methods and properties that allow the Client to send an HTTP Request and receive back an HTTP response
+                   
